@@ -11,22 +11,14 @@
 3.無人機主程式：啟動無人機後升高，再進行移動，過程根據神經網路的碰撞預測來決定繼續或停止，若碰撞則啟動返回功能，最終回到原點。
 <br>
 
-![image]((https://github.com/YanWu6213/SafeHover/blob/main/imgs/1.png)
-
-![image]([picture or gif url](https://github.com/YanWu6213/SafeHover/blob/main/imgs/2.png))
-
-![image]([picture or gif url](https://github.com/YanWu6213/SafeHover/blob/main/imgs/3.png))
-
-![image]([picture or gif url](https://github.com/YanWu6213/SafeHover/blob/main/imgs/4.png))
-
-![image]([picture or gif url](https://github.com/YanWu6213/SafeHover/blob/main/imgs/5.png))
-
-![image]([picture or gif url](https://github.com/YanWu6213/SafeHover/blob/main/imgs/6.png))
-
-![image]([picture or gif url](https://github.com/YanWu6213/SafeHover/blob/main/imgs/7.png))
-
-![image]([picture or gif url](https://github.com/YanWu6213/SafeHover/blob/main/imgs/8.png))
-
+![image](https://github.com/YanWu6213/SafeHover/blob/main/imgs/1.png)
+![image](https://github.com/YanWu6213/SafeHover/blob/main/imgs/2.png)
+![image](https://github.com/YanWu6213/SafeHover/blob/main/imgs/3.png)
+![image](https://github.com/YanWu6213/SafeHover/blob/main/imgs/4.png)
+![image](https://github.com/YanWu6213/SafeHover/blob/main/imgs/5.png)
+![image](https://github.com/YanWu6213/SafeHover/blob/main/imgs/6.png)
+![image](https://github.com/YanWu6213/SafeHover/blob/main/imgs/7.png)
+![image](https://github.com/YanWu6213/SafeHover/blob/main/imgs/8.png)
 
 
 程式碼部分參考https://github.com/simondlevy/AirSimTensorFlow
