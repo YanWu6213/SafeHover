@@ -11,7 +11,7 @@
 3.無人機主程式：啟動無人機後升高，再進行移動，過程根據神經網路的碰撞預測來決定繼續或停止，若碰撞則啟動返回功能，最終回到原點。
 <br>
 
-![image]([picture or gif url](https://github.com/YanWu6213/SafeHover/blob/main/imgs/1.png))
+![image]((https://github.com/YanWu6213/SafeHover/blob/main/imgs/1.png)
 
 ![image]([picture or gif url](https://github.com/YanWu6213/SafeHover/blob/main/imgs/2.png))
 
